@@ -6,7 +6,8 @@ jobs:
   init:
     runs-on: ubuntu-latest
     steps:
-      - run: echo 'Hello maguuete'
+      - run: echo 'Hello maguette'
       - run: echo $HOSTNAME
+
    
  
